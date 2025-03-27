@@ -1,0 +1,35 @@
+.marruecos{
+    background: #F1373A;
+    width: 350px;
+    height: 300px;
+}
+
+.azulc{
+    background: rgb(4, 4, 146);
+    width: 350px;
+    height: 100px;
+}
+
+.rojoc{
+    background-color: red;
+    width: 350px;
+    height: 100px;
+
+ 
+}
+
+.blancoc{
+    background: #ffff;
+    width: 350px;
+    height: 100px;
+}
+
+.belgica{background: linear-gradient(to right, #000000 33.33% , #a28f03 33.33% 66.66%, #b60d0d 66.66% 99.99%);
+width: 350px;
+height: 300px; }
+
+.canada{
+    background: linear-gradient(to right, #b60f0f 30% , #f0efea 30% 70%, #b60d0d 70% 100%);
+    width: 350px;
+    height: 300px;
+}

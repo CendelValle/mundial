@@ -1,0 +1,77 @@
+
+.bandera{
+    background: linear-gradient(to right, #fff 50%, #8A1538 50% 100%);
+
+}
+.right{
+    width: 40%;
+}
+.triangle{
+    background-color: #fff ;
+    border-right: 65px solid #8A1538;
+    border-bottom: 28.5px solid transparent;
+    border-top: 22px solid transparent;
+}
+
+.ecuador{
+    width: 350px;
+    height: 300px;
+}
+
+.franja {
+    width: 100%;
+    height: 33.33%;
+}
+.amarillo {
+    background-color: #FFD700;
+
+}
+.azul {
+    background-color: #0033A0;
+
+}
+
+.rojo {
+    background-color: #CE1126;
+}
+
+
+
+.Senegal{
+    background: linear-gradient(to right, #1f6910 33.33% , #e6dc09  33.33% 66.66%, #a20303 66.66% 99.99%);
+    width: 350px;
+    height: 300px;
+    text-align: center;
+}
+
+
+
+
+
+.bandera {
+    width: 350px;
+    height: 300px;
+   
+}
+
+.franja {
+    width: 100%;
+    height: 33.33%;
+}
+
+.rojo {
+    background-color: #8b2121; 
+}
+
+.blanco {
+    background-color: #FFFFFF; 
+}
+
+.azul {
+    background-color: #1c1494; 
+}
+
+
+
+
+

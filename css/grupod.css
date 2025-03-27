@@ -1,0 +1,101 @@
+
+.bandera1 {
+    width: 350px;
+    height: 300px;
+    display: flex;
+}
+
+.franja {
+    width: 33.33%;
+    height: 100%;
+}
+
+.azul {
+    background-color: #0055A4;
+}
+
+.blanco {
+    background-color: #FFFFFF; 
+}
+
+.rojo {
+    background-color: #EF4135; 
+}
+
+.bandera2 {
+    width: 350px;
+    height: 300px;
+    background-color: #052264;
+    position: relative;
+    text-align: left;
+}
+
+.estrella1{
+    position: center;
+}
+
+.bandera3 {
+    width: 350px;
+    height: 300px;
+    background-color: #C8102E; 
+    position: relative;
+}
+
+
+.cruz-horizontal {
+    position: absolute;
+    top: 40%;
+    left: 0;
+    width: 100%;
+    height: 20%;
+    background-color: #FFFFFF;
+}
+
+
+.cruz-vertical {
+    position: absolute;
+    left: 25%;
+    top: 0;
+    width: 15%;
+    height: 100%;
+    background-color: #FFFFFF;
+}
+.bandera4 {
+    width: 350px;
+    height: 300px;
+    background-color: #E70013; 
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.circulo-blanco {
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    border-radius: 50%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.media-luna {
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    left: 19px;
+    top: 50%;
+    transform: translateY(-50%);
+    box-shadow: -12px 0 0 0 red; 
+}
+
+.estrella {
+    position: absolute;
+    color: red;
+    font-size: 20px;
+    left: 35px;
+}

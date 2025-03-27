@@ -1,0 +1,56 @@
+.verde{
+    background: #02C13F;
+    width: 350px;
+    height: 300px;
+    text-align: center;
+}
+
+.rojoz{
+    background: red;
+    width: 350px;
+    height: 300px;
+}
+
+.cruz{
+    background: aliceblue;
+    height: 170px;
+    position: relative;
+    width: 60px;
+    margin: auto;
+}
+
+.cruz:after{
+    background-color: aliceblue;
+    content: "";
+    height: 60px;
+    left: -55px;
+    position: absolute;
+    top: 50px;
+    width: 170px;
+
+}
+
+.camerun{
+    background: linear-gradient(to right, #1f6910 33.33% , #a20303 33.33% 66.66%, #e6dc09 66.66% 99.99%);
+    width: 350px;
+    height: 300px;
+}
+
+
+.rojos{
+    background: #a20303;
+    width: 350px;
+    height: 116.50px;
+}
+.azuls{
+    background: #0a2273;
+    width: 350px;
+    height: 116.50px;
+    text-align: left;
+}
+
+.blancos{
+    background-color: aliceblue;
+    width: 350px;
+    height: 116.50px;
+}

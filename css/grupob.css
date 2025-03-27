@@ -1,0 +1,93 @@
+.jupi{
+    display: flex;              
+    justify-content: center;
+    align-items: center;        
+    height: 300px;
+    width: 350px;
+}
+.jasa {
+    width: 350px;
+    height: 300px;
+    background-color: white;
+    position: relative;
+    border: 2px solid black;
+}
+
+.horizontal {
+     position: absolute;
+    top: 40%;
+    left: 0%;
+    width: 100%;
+    height: 10%;
+    background-color: #c91b1b;
+}
+.vertical {
+    position: absolute;
+    left: 45%;
+    top: 0;
+    width: 10%;
+    height: 100%;
+    background-color: #c91b1b;
+}
+
+.aña{
+    display: flex;              
+    justify-content: center;
+    align-items: center;        
+    height: 300px;
+}
+.kal {
+    width: 350px;
+    height: 300px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+}
+.franja-verdef{
+    background-color: green;
+    height: 300px;
+    width: 350px;
+}
+.franja-blanño{
+    background-color: white;
+    height: 300px;
+    width: 350px;
+}
+.franja-rojold{
+    background-color:red;
+    height: 300px;
+    width: 350px;
+}
+
+.unidos{
+    width: 350px;
+    height: 300px;
+    background: #ffff;
+    text-align: left;
+}
+
+.linea1{
+    height:12% ;
+    background-color: #c21414;
+}
+
+.linea3, .linea5, .linea7, .linea9{
+    height: 11.2%;
+    width: 100%;
+
+    background-color: #c21414;
+}
+
+.linea2, .linea4,.linea6, .linea8{
+    height: 11.2%;
+    width: 100%;
+    background-color: #ffff;
+ }
+.gales{
+    background: linear-gradient(to bottom, #f9f9f9 50%,  #1f6910 50% 100%);
+    width: 350px;
+    height: 300px;
+    text-align: center;
+}
+

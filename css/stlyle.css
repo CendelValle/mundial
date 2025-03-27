@@ -1,0 +1,76 @@
+body{
+    background-image: url(fondo/fondo.avif);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Arial Black; 
+    font-weight: bold;  
+    font-size: 14px;
+    color: #000; 
+    text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
+}
+
+.logo{
+    position: fixed;
+    top: 30px;
+    left: 20px;
+}
+
+.copa{
+    position: absolute;
+    top: 30px;
+    right: -40px;
+}
+
+
+h1{
+    text-align: center; 
+font-family: Arial Black; 
+font-weight: bold; 
+font-size: 30px; 
+color: #fff; 
+text-shadow: -2px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+}
+
+h2{
+    font-family: Arial Black; 
+    font-weight: bold; 
+    font-size: 25px; 
+    color: #fff; 
+    text-shadow: -3px 0 #000, 0 1px #000, 1px 0 #000, 0 -3px #000;
+}
+
+h3{
+    font-family: Arial Black; 
+    font-weight: bold; 
+    font-size: 20px; 
+    color: #fff; 
+    text-shadow: -3px 0 #000, 0 1px #000, 1px 0 #000, 0 -3px #000;
+}
+
+b {
+    font-family: 'Times New Roman' Black; 
+    font-weight: bold;  
+    font-size: 14px;
+    color: #000; 
+    text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+    animation: animacion 4s ease-in-out forwards;
+    clip-path: inset(0 100% 0 0);
+  }
+  
+  @keyframes animacion {
+    0% { clip-path: inset(0 100% 0 0); } 
+    100% { clip-path: inset(0 0 0 0); } 
+  }
+
+
+nav{
+text-align: center;
+    background: beige;
+}
+
+
